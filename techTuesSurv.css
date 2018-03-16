@@ -1,0 +1,10 @@
+body {	background: linear-gradient(#3949ab , #ffb74d  );
+}
+
+h1 { text-align: center; color: black; font-size: 34px; font-family: Constantia; text-decoration: over line;
+ border-style: ridge; border-color: black;
+}
+
+h2 { text-align: center; color: white; font-size: 150% ; font-family: Constantia ; margin: 50px;  cursor; cross hair; 
+font-style: italic;
+}
