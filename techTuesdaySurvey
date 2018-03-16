@@ -1,0 +1,31 @@
+<html>
+
+			<title> 			TECH TUESDAY AND SCIENCE THURSDAY			</title>
+			
+			<link rel="stylesheet" type="text/css" href="stylesheetPg.css">
+			<body>
+		<center><h1> 			TECH TUESDAY AND SCIENCE THURSDAY			</h1></center>
+	
+		<center><h2>
+		As the director Joey Matthews attracts many professionals from a variety of fields of STEM. As this speakers are bring our students at Pueblo Community
+		College a rare insight in the expectations and everyday tasks within careers of STEM within the community of Pueblo, Colorado. As we are eternally grateful
+		to each individual speaker for their precious time, we have implemented this short comment box to enhance our students and speakers experiences within our 
+		STEM Presentations. We encourage students to give us any feedback in which our students see the opportunity for improvement or other STEM Careers that students
+		have high interest. We thank you for your time and hope your enjoyed the presentation!
+		</h2></center>
+
+			<center><h3> Please leave comments or feedback below:
+			
+			<input type="text" placeholder="Comments or Feedback" required><textarea rows="4" cols="200"></textarea>
+			<center><button type="submit" id="results"> Submit my Comments! </button> </center>
+			</h3></center>
+		
+				<center><h4 class="pictures"> Previous Speakers 
+				<li>PICTURE BIO </li>
+				<li>PICTURE BIO </li>
+				<li>PICTURE BIO </li>		
+			
+				</h4>
+				</center>
+				</body>
+</html>
