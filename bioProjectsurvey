@@ -1,0 +1,90 @@
+<html>
+		<link rel="stylesheet" type="text/css" href="stylesheetbio.css">
+						<title>			PUEBLO COMMUNITY COLLEGE 3D PRINTING PROJECTS 				</title>
+				
+			<h1>			PUEBLO COMMUNITY COLLEGE 3D PRINTING PROJECTS 				</h1>
+			<br>
+			<center>
+				<img src="images/bio.jpg">
+				<img src="images/math.jpg">
+			</center>
+<h4><center><class="head">
+		
+		As you are a student who has recently completed their 3D Printing project within the STEM CENTER, we encourage our students to give as much feedback to 
+		enhance our students experience and ability to learn. Below we have posted a short survey consisting about 5 to 10 questions and should take no-longer 
+		than 5-minutes to complete. We do appreciate your time and look forward to each individual feedback. 
+		</center>
+	</h1>
+		<body>
+	<h2><class="questions">
+				<p>
+				Question 1: How did the designing and printing of your 3D project help you learn the course material more effectively? 
+				</p>
+				<blockquote>
+					<ul class="answers">
+					<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">This was a hands-on activity that got me more engaged in the material</label><br/>
+					<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">It didn't</label><br/>
+					<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">It helped me understand class material better</label><br/>
+					</ul> 
+					<br>
+				<p>
+				Question 2: What was the most challenging part of this project?
+				</p>
+					<ul class="answers">
+					<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">Designing Model</label><br/>
+					<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">Printing Model</label><br/>
+					<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">Group Collaboration</label><br/>
+					<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">Time Constraints</label><br/>
+					</ul> 
+					<br>
+				<p>
+				Question 3: What was the most enjoyable/most interesting part of this project?
+				</p>
+					<ul class="answers">
+					<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">Designing the model on Tinkercad</label><br/>
+					<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">Printing Model</label><br/>
+					<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">Understanding the course material in a new and interesting way</label><br/>
+					<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">Group Collaboration</label><br/>
+					</ul> 
+					<br>
+				<p>
+				Question 4: On a scale 1 to 5, how satisfied are you with the overall project? (1 not being satisfied, 5 being extremely satisfied.)
+				</p>
+					<ul class="answers">
+					<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">1</label><br/>
+					<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">2</label><br/>
+					<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">3</label><br/>
+					<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">4</label><br/>
+					<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">5</label><br/>
+					</ul> 
+					<br>
+				<p>
+				Question 5:On a scale of 1 to 5, how helpful were the STEM Center work studies/ students? (1 being no helpful, 5 being extremely helpful.)
+				</p>
+					<ul class="answers">
+					<input type="radio" name="q1" value="a" id="q1a"><label for="q1a">1</label><br/>
+					<input type="radio" name="q1" value="b" id="q1b"><label for="q1b">2</label><br/>
+					<input type="radio" name="q1" value="c" id="q1c"><label for="q1c">3</label><br/>
+					<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">4</label><br/>
+					<input type="radio" name="q1" value="d" id="q1d"><label for="q1d">5</label><br/>
+					</ul> 
+					<br>
+				<p>
+				Question 6:What would you suggest for the future projects in this class to make it more effective and enjoyable. 
+				</p>
+					<ul class="answers">
+					<input type="text" placeholder="Comments or Feedback" required><textarea rows="4" cols="200"></textarea>
+					</ul> 
+					<br>
+				<p>
+				
+		</h2>
+			<br>
+		<h3>
+			<center><button type="submit" id="results"> Submit our Survey! </button> </center>
+		</body>
+			
+					<p>				Thank you for taking the time to complete the survey				</p>
+			</h3>
+	
+</html>
