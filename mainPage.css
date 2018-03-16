@@ -1,0 +1,57 @@
+body {background: radial-gradient(circle, #ec7063, #2c3e50 );
+}
+
+h1 { text-align: center; color: black; font-size: 34px; font-family: constantia; text-decoration: overline;
+ border-style: ridge; border-color: black;
+}
+
+h2 { text-align: center; color: white; font-size: 150% ; font-family: constantia ; margin: 50px;  cursor; crosshair; 
+font-style: italic;
+}
+	
+h3 { text-align: center ; color: white; font-size: 150% ; 	font-style: italic; padding: 20px; cursor: hand; 
+font-style: italic;
+}
+
+h4	{ text-align: center; font-size: 24px; color: white; font-family: constantia; font-style: italic; cursor: hand;
+}
+
+p { text-align: center; color: white; font-size: 150% ; font-family: constantia; font-style: italic; line-height: 1.5em;
+ padding: 20px; border-color: black; border-width: 10px; font-size:42px;
+
+}
+
+ul { color: white; font-weight: bold; border-style: double dotted; border-radius: 10px; font-size: 30px; font-family: constantia;
+
+}
+
+.d1 { border-bottom: solid black; margin: 10; 	
+}
+	
+.underline	{ text-decoration: underline;	
+}
+
+.bold	{ font-weight: bolder;	
+}
+
+.imagec	{ dispay: block; margin-left: auto; margin-right: auto;	padding: 4px; background-color: white; border-style: ridge; border-color: black;
+}
+
+.highlight	{ background-color: blue; 
+}
+
+a:link	{ color: blue;
+}
+
+a:visited { color: #239b56;
+}
+
+a:hover { color: orange; cursor: crosshair;
+}
+
+
+
+
+<!--
+// this is to link other html files to a website//
+<a href="https://link">link detail</a>--> 
